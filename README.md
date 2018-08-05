@@ -7,3 +7,5 @@ just import and  export the  geojson or shpfile throught postgis by geotools;  j
 文件路径名称判断和日志可自己配置更改
  
  maven项目，基于2018年6月份geotools 18.4版本，要求jdk1.8
+ 
+iwuang@qq.com 查看代码后如有疑问欢迎交流
