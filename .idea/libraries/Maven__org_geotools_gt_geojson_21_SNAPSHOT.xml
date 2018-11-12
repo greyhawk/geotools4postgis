@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.geotools:gt-geojson:21-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/geotools/gt-geojson/21-SNAPSHOT/gt-geojson-21-20181026.093516-50.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/geotools/gt-geojson/21-SNAPSHOT/gt-geojson-21-20181026.093516-50-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/geotools/gt-geojson/21-SNAPSHOT/gt-geojson-21-20181026.093516-50-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
