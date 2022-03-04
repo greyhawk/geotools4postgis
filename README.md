@@ -1,3 +1,6 @@
+# 注意
+该项目是 fork 的 https://github.com/yieryi/gts4vect 学习使用，最新的代码请浏览上面的仓库。
+
 # geotools4postgis
 just import and  export the  geojson or shpfile throught postgis by geotools;  jdk 1.8 is required
 
